@@ -2,10 +2,10 @@ Complete Excel project from 'Data Cleaning' to 'Data Visualization'
 
 Highlights:
 
- Applied XLOOKUP
- Applied INDEX MATCH
- Applied Multiple IF functions
- Performed Date Formatting
+ Applied XLOOKUP.
+ Applied INDEX MATCH.
+ Applied Multiple IF functions.
+ Performed Date Formatting.
  Performed Number Formatting
  Checked For Duplicates
  Converted Range to Table
